@@ -1,0 +1,32 @@
+AURORA GRAND HOTEL
+HOTEL ROOM BOOKING SYSTEM
+
+MAIN MENU
+
+[1]  Hotel Dashboard
+[2]  View All Rooms
+[3]  Find Available Room
+[4]  New Booking
+[5]  Current Bookings
+[6]  Search Booking
+[7]  Cancel Booking
+[8]  Guest Checkout
+[9]  Room Maintenance
+[10] Booking History
+[0]  Exit
+
+Example booking:
+
+Customer name : Antriksh
+Phone number : 9876543210
+Room number : 203
+Number of guests : 2
+Number of nights : 3
+Check-in date : 05-10-2026
+
+Booking ID      : 1001
+Room Charges    : Rs. 7,500.00
+GST (5%)        : Rs. 375.00
+Total Amount    : Rs. 7,875.00
+
+Booking saved successfully!
